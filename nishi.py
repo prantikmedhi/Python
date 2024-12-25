@@ -1,7 +1,7 @@
 import turtle
 import turtle as tur
 tur.title("Pythontpoint")
-tur.write("      For you Nishi <3  pp              ", align="right",)
+tur.write("      For you Nishi <3   pp              ", align="right",)
 
 
 
